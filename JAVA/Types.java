@@ -1,5 +1,7 @@
 package JAVA;
 
+import java.util.Date;
+
 public class Types {
     public static void main(String[] args) {
         int age=69,temp=37;
@@ -31,6 +33,12 @@ public class Types {
         System.out.println(letter);
         // 2. Reference-for storing complex objects
 
+        Date now=new Date();  
+        System.out.println(now);
+        //output Sat Mar 16 12:31:51 IST 2024
+
+        // shortcut to print System.out.Println ->> sout
+        // sout
     }
     
 }
