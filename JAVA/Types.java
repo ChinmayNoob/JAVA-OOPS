@@ -11,7 +11,7 @@ public class Types {
         System.out.println(temp);
         System.out.println(temp+" "+age);
         System.out.printf("%d age and %d temperature",age,temp);
-        System.out.println(Strings.format("%d and %s are age and temperature respectively",age,temp));
+        System.out.println(String.format("%d and %d are age and temperature respectively",age,temp));
         System.err.println("");
 
         // two types 
