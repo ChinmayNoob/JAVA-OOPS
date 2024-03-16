@@ -3,7 +3,7 @@ package JAVA;
 import java.util.Date;
 
 public class Types {
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
         int age=69,temp=37;
 
         // different types of printing formats 
@@ -11,7 +11,7 @@ public class Types {
         System.out.println(temp);
         System.out.println(temp+" "+age);
         System.out.printf("%d age and %d temperature",age,temp);
-        System.out.println(String.format("%d and %s are age and temperature respectively",age,temp));
+        System.out.println(Strings.format("%d and %s are age and temperature respectively",age,temp));
         System.err.println("");
 
         // two types 
