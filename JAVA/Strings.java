@@ -38,6 +38,9 @@ public class Strings {
         //trim the extra spaces 
         //clears the after and before space of last and first words of the strings respectively 
 
+        String str="Hello \"Luffy\"";
+        System.out.println(str);
+
 
 
 
