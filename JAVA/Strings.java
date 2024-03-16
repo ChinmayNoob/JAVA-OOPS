@@ -41,6 +41,11 @@ public class Strings {
         String str="Hello \"Luffy\"";
         System.out.println(str);
 
+        // to use backslash use double backslash 
+
+        System.out.println(":c\\Windows\\Chinmay\\Downloads");
+        // :c\Windows\Chinmay\Downloads -output 
+
 
 
 
