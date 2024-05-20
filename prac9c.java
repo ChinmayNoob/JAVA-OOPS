@@ -1,6 +1,4 @@
-public class prac9c {
-    
-}
+// Write a generic method that returns the minimum elements in a two dimensional array
 public class Main {
 
     public static <T extends Comparable<T>> T findMinElement(T[][] array) {
